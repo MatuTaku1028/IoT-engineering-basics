@@ -1,2 +1,2 @@
 import sys
-print(sts.version)
+print(sts.version_info)
